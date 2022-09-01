@@ -4,7 +4,11 @@
 // New person
 =======
 // new test
+<<<<<<< HEAD
 >>>>>>> 7cc4601 (more stuff)
+=======
+// more testing
+>>>>>>> f434586 (Updated)
 
 import java.util.*;
 
