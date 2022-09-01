@@ -1,19 +1,7 @@
 // Java program to demonstrate
 // forEach(BiConsumer) method.
-<<<<<<< HEAD
-<<<<<<< HEAD
 // New person
-=======
 // new test
-<<<<<<< HEAD
->>>>>>> 7cc4601 (more stuff)
-=======
-// more testing
->>>>>>> f434586 (Updated)
-=======
-// new test
-// more testing
->>>>>>> f43458609c3052384e509e8fce0cb7099f9d2311
 
 import java.util.*;
 
