@@ -1,6 +1,10 @@
 // Java program to demonstrate
 // forEach(BiConsumer) method.
+<<<<<<< HEAD
 // New person
+=======
+// new test
+>>>>>>> 7cc4601 (more stuff)
 
 import java.util.*;
 
