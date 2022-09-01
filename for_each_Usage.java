@@ -1,5 +1,6 @@
 // Java program to demonstrate
 // forEach(BiConsumer) method.
+// New person
 
 import java.util.*;
 
