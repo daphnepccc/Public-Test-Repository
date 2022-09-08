@@ -7,6 +7,7 @@
 # while <condition>:
 #      <code>
 
+# New note
 
 
 x = 6
