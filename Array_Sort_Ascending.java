@@ -63,3 +63,9 @@ class GFG {
 		sortArray(array);
 	}
 }
+
+// Testing scenario with 3 commits and one merge
+
+// Added commit 1 of 3
+
+// Added commit 2 of 3
